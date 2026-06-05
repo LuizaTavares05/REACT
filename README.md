@@ -32,7 +32,7 @@ REACT/
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/LuizaTavares05/Biblioteca.git
+   git clone https://github.com/LuizaTavares05/REACT.git
    ```
 
 2. **Crie uma branch com seu nome ou número da questão:**
